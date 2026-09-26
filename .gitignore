@@ -1,0 +1,14 @@
+# Local credentials and machine configuration
+.env
+.env.*
+!.env.example
+
+# Local operating system and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Scratch work and Python caches
+work/
+__pycache__/
+*.py[cod]
