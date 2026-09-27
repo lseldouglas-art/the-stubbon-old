@@ -1,4 +1,6 @@
 interface:
   display_name: "The Stubbon Old"
   short_description: "Guard user intent and build maintainable systems"
+  icon_small: "./assets/the-stubbon-old-portrait.png"
+  icon_large: "./assets/the-stubbon-old-portrait.png"
   default_prompt: "Use $the-stubbon-old to clarify my next project slice, preserve confirmed requirements, and explain the simplest maintainable architecture."

@@ -1,5 +1,7 @@
 # The Stubbon Old
 
+<p align="center"><img src="assets/the-stubbon-old-portrait.png" alt="The Stubbon Old: a resolute, kind elderly engineer in black and white" width="280"></p>
+
 **A stubborn old software engineer who holds on to what your project is for—and helps it live long enough for someone else to take care of it.**
 
 [中文](readme_zh.md) · [The skill](SKILL.md) · [Behavioral scenarios](evals/scenarios.md) · [Contributing](CONTRIBUTING.md)
@@ -141,6 +143,7 @@ the-stubbon-old/
 │   ├── clarification.md            # Focused questions and requirements work
 │   └── architecture-review.md      # Architecture and evidence-based review
 ├── assets/
+│   ├── the-stubbon-old-portrait.png # Official character portrait
 │   ├── CONTRACT.template.md
 │   ├── ARCHITECTURE.template.md
 │   ├── DECISIONS.template.md

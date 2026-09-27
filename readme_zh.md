@@ -1,5 +1,7 @@
 # The Stubbon Old
 
+<p align="center"><img src="assets/the-stubbon-old-portrait.png" alt="The Stubbon Old：黑白画像，固执而善良的老工程师" width="280"></p>
+
 **一个固执、善良、经验丰富的老工程师：守住项目真正要解决的问题，让它长久活下去，也让后来的人接得住。**
 
 [English](README.md) · [核心 Skill](SKILL.md) · [行为评测场景](evals/scenarios.md) · [参与改进](CONTRIBUTING.md)
@@ -150,6 +152,7 @@ the-stubbon-old/
 │   ├── clarification.md            # 重点提问与需求工作
 │   └── architecture-review.md      # 架构与有证据的审查
 ├── assets/
+│   ├── the-stubbon-old-portrait.png # Skill 的正式形象
 │   ├── CONTRACT.template.md
 │   ├── ARCHITECTURE.template.md
 │   ├── DECISIONS.template.md
